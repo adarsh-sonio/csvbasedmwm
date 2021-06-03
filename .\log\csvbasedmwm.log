@@ -1,0 +1,176 @@
+2021-06-03 11:41:48,932 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:41:48,932 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:41:48,933 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: ''
+(0008, 0050) Accession Number                    SH: ''
+(0008, 0060) Modality                            CS: ''
+(0008, 1030) Study Description                   LO: ''
+(0010, 0010) Patient's Name                      PN: '*'
+(0010, 0020) Patient ID                          LO: ''
+(0010, 0030) Patient's Birth Date                DA: ''
+(0010, 0040) Patient's Sex                       CS: ''
+2021-06-03 11:43:00,925 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:43:00,925 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:43:00,926 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: ''
+(0008, 0050) Accession Number                    SH: ''
+(0008, 0060) Modality                            CS: ''
+(0008, 1030) Study Description                   LO: ''
+(0010, 0010) Patient's Name                      PN: '*'
+(0010, 0020) Patient ID                          LO: ''
+(0010, 0030) Patient's Birth Date                DA: ''
+(0010, 0040) Patient's Sex                       CS: ''
+2021-06-03 11:43:11,378 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:43:11,389 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:43:11,390 csvbasedmwm  INFO     
+(0010, 0010) Patient's Name                      PN: '*'
+2021-06-03 11:43:32,096 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:43:32,096 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:43:32,097 csvbasedmwm  INFO     
+(0010, 0010) Patient's Name                      PN: '*'
+2021-06-03 11:44:06,498 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:44:06,498 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:44:06,499 csvbasedmwm  INFO     
+(0010, 0010) Patient's Name                      PN: '*'
+2021-06-03 11:47:09,116 csvbasedmwm  INFO     Handle a C-ECHO request event.
+2021-06-03 11:47:29,822 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:47:29,822 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:47:29,823 csvbasedmwm  INFO     
+(0010, 0010) Patient's Name                      PN: '*'
+2021-06-03 11:47:57,095 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:47:57,095 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:47:57,095 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: '*'
+2021-06-03 11:48:19,969 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:48:19,969 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:48:19,969 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: '00000001'
+2021-06-03 11:48:51,361 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:48:51,361 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:48:51,361 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:49:13,589 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:49:13,590 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:49:13,590 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:50:16,556 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:50:16,557 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:50:16,557 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:50:16,559 csvbasedmwm  INFO     ======================= RESPONSE =======================
+2021-06-03 11:50:16,560 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20190720'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000001'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^ITIRO=患者^一郎=ｶﾝｼﾞｬ^ｲﾁﾛｳ'
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:51:47,417 csvbasedmwm  INFO     Handle a C-ECHO request event.
+2021-06-03 11:51:55,535 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:51:55,551 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:51:55,571 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: ''
+(0008, 0050) Accession Number                    SH: ''
+(0008, 0060) Modality                            CS: ''
+(0008, 1030) Study Description                   LO: ''
+(0010, 0010) Patient's Name                      PN: '*'
+(0010, 0020) Patient ID                          LO: ''
+(0010, 0030) Patient's Birth Date                DA: ''
+(0010, 0040) Patient's Sex                       CS: ''
+2021-06-03 11:51:55,576 csvbasedmwm  INFO     ======================= RESPONSE =======================
+2021-06-03 11:52:16,224 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:52:16,239 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:52:16,240 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0010, 0010) Patient's Name                      PN: '*'
+2021-06-03 11:52:16,242 csvbasedmwm  INFO     ======================= RESPONSE =======================
+2021-06-03 11:52:24,731 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:52:24,731 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:52:24,732 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0010, 0020) Patient ID                          LO: '*'
+2021-06-03 11:52:24,733 csvbasedmwm  INFO     ======================= RESPONSE =======================
+2021-06-03 11:52:24,734 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: '20190720'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000001'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^ITIRO=患者^一郎=ｶﾝｼﾞｬ^ｲﾁﾛｳ'
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:52:24,737 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: '20181211'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000002'
+(0008, 0060) Modality                            CS: 'CT'
+(0010, 0010) Patient's Name                      PN: 'KANJA^JIRO=患者^二郎=ｶﾝｼﾞｬ^ｼﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'BBBBBBBB'
+2021-06-03 11:52:24,740 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: '20190502'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000003'
+(0008, 0060) Modality                            CS: 'MR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^SABURO=患者^三郎=ｶﾝｼﾞｬ^ｻﾌﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'CCCCCCCC'
+2021-06-03 11:52:24,741 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: '20190310'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000004'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^SIRO=患者^四郎=ｶﾝｼﾞｬ^ｼﾛｳ'
+(0010, 0020) Patient ID                          LO: 'DDDDDDDD'
+2021-06-03 11:52:24,750 csvbasedmwm  INFO     
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0020) Study Date                          DA: '20190401'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000005'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^GORO=患者^五郎=ｶﾝｼﾞｬ^ｺﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'DDDDDDDk'
+2021-06-03 11:56:01,862 csvbasedmwm  INFO     Handle a C-FIND request event.
+2021-06-03 11:56:01,862 csvbasedmwm  INFO     ======================= REQUEST =======================
+2021-06-03 11:56:01,862 csvbasedmwm  INFO     
+(0010, 0020) Patient ID                          LO: '*'
+2021-06-03 11:56:01,864 csvbasedmwm  INFO     ======================= RESPONSE =======================
+2021-06-03 11:56:01,864 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20190720'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000001'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^ITIRO=患者^一郎=ｶﾝｼﾞｬ^ｲﾁﾛｳ'
+(0010, 0020) Patient ID                          LO: 'AAAAAAAA'
+2021-06-03 11:56:01,865 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20181211'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000002'
+(0008, 0060) Modality                            CS: 'CT'
+(0010, 0010) Patient's Name                      PN: 'KANJA^JIRO=患者^二郎=ｶﾝｼﾞｬ^ｼﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'BBBBBBBB'
+2021-06-03 11:56:01,867 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20190502'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000003'
+(0008, 0060) Modality                            CS: 'MR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^SABURO=患者^三郎=ｶﾝｼﾞｬ^ｻﾌﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'CCCCCCCC'
+2021-06-03 11:56:01,868 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20190310'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000004'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^SIRO=患者^四郎=ｶﾝｼﾞｬ^ｼﾛｳ'
+(0010, 0020) Patient ID                          LO: 'DDDDDDDD'
+2021-06-03 11:56:01,869 csvbasedmwm  INFO     
+(0008, 0020) Study Date                          DA: '20190401'
+(0008, 0030) Study Time                          TM: '153000'
+(0008, 0050) Accession Number                    SH: '00000005'
+(0008, 0060) Modality                            CS: 'CR'
+(0010, 0010) Patient's Name                      PN: 'KANJA^GORO=患者^五郎=ｶﾝｼﾞｬ^ｺﾞﾛｳ'
+(0010, 0020) Patient ID                          LO: 'DDDDDDDk'
+2021-06-03 11:58:07,452 csvbasedmwm  INFO     Handle a C-ECHO request event.

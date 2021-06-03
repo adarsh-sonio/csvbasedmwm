@@ -57,6 +57,7 @@ def handleFind(event):
 
     matching = []
     pattern = ""
+
     if "PatientID" in ds and ds.PatientID:
         # Convert wildcard to regex pattern
         pattern = re.sub(r"\*", ".*", ds.PatientID)
