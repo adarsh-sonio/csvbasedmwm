@@ -58,15 +58,17 @@ def handleFind(event):
     matching = []
     pattern = ""
 
-    if "PatientID" in ds and ds.PatientID:
-        # Convert wildcard to regex pattern
-        pattern = re.sub(r"\*", ".*", ds.PatientID)
-        pattern = re.sub(r"\?", ".", pattern)
-        pattern = r"^%s$" % pattern
+    # if "PatientID" in ds and ds.PatientID:
+    #     # Convert wildcard to regex pattern
+    #     pattern = re.sub(r"\*", ".*", ds.PatientID)
+    #     pattern = re.sub(r"\?", ".", pattern)
+    #     pattern = r"^%s$" % pattern
 
-    if pattern:
-        repattern = re.compile(pattern)
-        matching = [ inst for inst in storedDs if repattern.match(inst.PatientID) ]
+    # if pattern:
+    #     repattern = re.compile(pattern)
+    #     matching = [ inst for inst in storedDs if repattern.match(inst.PatientID) ]
+
+    matching = [inst for inst in storedDs]
 
     log.info("======================= RESPONSE =======================")
     for inst in matching:
